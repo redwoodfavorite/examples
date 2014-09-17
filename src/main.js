@@ -71,7 +71,8 @@ define(function(require, exports, module) {
     // require('examples/views/HeaderFooterLayout/example');
     // require('examples/views/HeaderFooterLayout/with-sized-modifier');
     // require('examples/views/RenderController/example');
-    require('examples/views/Scrollview/example');
+    // require('examples/views/Scrollview/example');
+    require('examples/views/NativeScrollview/example');
     // require('examples/views/SequentialLayout/example');
 
 });
